@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        app:lottie_rawRes="@raw/playing_animation"
+        app:lottie_loop="true"
+        android:visibility="gone"
+        android:id="@+id/lav_playing"
+        app:lottie_autoPlay="true">
+
+    </com.airbnb.lottie.LottieAnimationView>
+
+    <ImageView
+        android:id="@+id/iv_simple_bg"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/simple_bg">
+
+    </ImageView>
+
+    <TextView
+        android:id="@+id/tv_recording_path"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/ll_time"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:fontFamily="@font/google_sans_regular"
+        android:maxWidth="300dp"
+        android:text="Recording File name"
+        android:textAlignment="center"
+        android:textSize="20sp">
+
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/ll_time"
+        android:layout_centerInParent="true">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="00:00"
+            android:textAlignment="center"
+            android:textSize="70sp"
+            android:fontFamily="@font/google_sans_bold"
+            android:textColor="@color/black"
+            android:id="@+id/tv_time"
+            >
+
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="High Quality"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:fontFamily="@font/google_sans_bold"
+            >
+
+        </TextView>
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/ib_record"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="40dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/recording_in_active">
+
+    </ImageView>
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:id="@+id/ib_play"
+        android:src="@drawable/recording_play"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="75dp"
+        android:layout_toEndOf="@id/ib_record"
+        android:layout_marginStart="20dp"
+        android:background="@android:color/transparent">
+
+    </ImageView>
+
+
+</RelativeLayout>

@@ -1,0 +1,2 @@
+rootProject.name = "Clipboard APP"
+include ':app'
