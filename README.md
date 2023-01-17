@@ -1,4 +1,3 @@
-# Computer-Science-Projects
 <h1 align="center">Hi 👋, I'm Mila</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
