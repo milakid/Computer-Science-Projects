@@ -9,12 +9,12 @@
 <h5 >List Apps</h5>
 
 <ul dir="auto">
-<li><a href="https://choosealicense.com" rel="nofollow">Calculator</a></li>
-<li><a href="https://www.webpagefx.com/tools/emoji-cheat-sheet" rel="nofollow">Clipboard</a></li>
-<li><a href="https://flexbox.malven.co/" rel="nofollow">Contacts</a></li>
-<li><a href="https://grid.malven.co/" rel="nofollow">Notification</a></li>
-<li><a href="https://shields.io" rel="nofollow">SMS Sender</a></li>
-<li><a href="https://react-icons.github.io/react-icons/search" rel="nofollow">Sound Recorder</a></li>
+<li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/Calculator" rel="nofollow">Calculator</a></li>
+<li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/Clipboard" rel="nofollow">Clipboard</a></li>
+<li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/Contacts" rel="nofollow">Contacts</a></li>
+<li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/Notification" rel="nofollow">Notification</a></li>
+<li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/SMS%20Sender" rel="nofollow">SMS Sender</a></li>
+<li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/Sound%20Recorder" rel="nofollow">Sound Recorder</a></li>
 </ul>
 <p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
 
