@@ -19,7 +19,8 @@
 
 
 
-<a href="(https://github.com/milakid" rel="nofollow"><h3>All of my projects are available at</h3></a>
+<a href="(https://github.com/milakid"><h3>All of my projects are available at</h3></a>
+- https://t.me/Gettechinfoweb
 
 ### Hi there 👋
 
