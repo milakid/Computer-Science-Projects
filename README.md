@@ -18,27 +18,14 @@
 </ul>
 
 <details>
-  <summary>Table of Contents</summary>
+  <summary>List Apps</summary>
   <ol dir="auto">
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul dir="auto">
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul dir="auto">
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/Calculator">Calculator</a></li>
+    <li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/Clipboard">Clipboard</a></li>
+    <li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/Contacts">Contacts</a></li>
+    <li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/Notification">Notification</a></li>
+    <li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/SMS%20Sender">SMS Sender</a></li>
+    <li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/Sound%20Recorder">Sound Recorder</a></li>
   </ol>
 </details>
 
