@@ -21,6 +21,7 @@
 
 <a href="(https://github.com/milakid"><h3>All of my projects are available at</h3></a>
 - https://t.me/Gettechinfoweb
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> https://t.me/Gettechinfoweb</li>
 
 ### Hi there 👋
 
