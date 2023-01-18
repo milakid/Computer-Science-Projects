@@ -5,7 +5,7 @@
 
 # Computer-Science-Projects
 
-<h4 >This is My Computer Science Projects </h4>
+<h4 >This is My Computer Science Projects Using Android Studio</h4>
 
 <details>
   <summary>List Apps</summary>
@@ -19,6 +19,23 @@
     <li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/Sound%20Recorder">Sound Recorder</a></li>
   </ol>
 </details>
+
+</a>Project tools</h2>
+
+<ul dir="auto">
+<li>Android Development Kit - Android Studio (API level 19 or higher) - <a href="https://developer.android.com/studio" rel="nofollow">Official Website</a></li>
+<li>Java Development Kit - Java 13 - <a href="https://www.oracle.com/java/technologies/javase-downloads.html" rel="nofollow">Official Website</a></li>
+<li>Visual Studio Code (Recommended) - <a href="https://code.visualstudio.com/" rel="nofollow">Full Specs</a></li>
+</ul>
+
+<p dir="auto">A Common Clipboard tool between Windows and Android.</p>
+
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content=
+"do Ctrl+C in windows Paste in Android"><pre class="notranslate"><code>
+do Ctrl+C in windows
+
+Paste in Android
+</code></pre></div>
 
 <a href="(https://github.com/milakid"><h3>All of my projects are available at</h3></a>
 
