@@ -1,7 +1,7 @@
 # Computer-Science-Projects
 
 <h1 align="center">Hi 👋, I'm Mila</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">Developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milakid&label=Profile%20views&color=0e75b6&style=flat" alt="milakid" /> </p>
 
@@ -9,21 +9,15 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/milakid](https://github.com/milakid)
 
-- 📫 How to reach me **milesyedl@gmail.com**
-
-* ❤️ I love ...
-
-- ⚡ Fun fact **hmm**
 
 ### Hi there 👋
-* 👂 My name is ...
-* 👩 Pronouns: ...
-* 🔭 I’m currently working on ...
-* 🌱 I’m currently learning ...
-* 🤝 I’m looking to collaborate on ...
+
+* 👂 My name is Mila
+* 😏 Pronouns: Hmm
+* 🔭 I’m currently working on GTI
+* 🌱 I’m currently learning CS
 * 🤔 I’m looking for help with ...
-* 💬 Ask me about ...
-* 📫 How to reach me: ...
+* 📫 How to reach me: **milesyedl@gmail.com**
 * ❤️ I love ...
 * ⚡ Fun fact: hmm
 
