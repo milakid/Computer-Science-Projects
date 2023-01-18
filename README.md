@@ -19,7 +19,7 @@
 
 
 
-<li><a href="(https://github.com/milakid" rel="nofollow"><h3>All of my projects are available at</h3></a></li>
+<a href="(https://github.com/milakid" rel="nofollow"><h3>All of my projects are available at</h3></a>
 
 ### Hi there 👋
 
