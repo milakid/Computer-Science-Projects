@@ -6,16 +6,6 @@
 # Computer-Science-Projects
 
 <h4 >This is My Computer Science Projects </h4>
-<h5 >List Apps</h5>
-
-<ul dir="auto">
-<li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/Calculator" rel="nofollow">Calculator</a></li>
-<li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/Clipboard" rel="nofollow">Clipboard</a></li>
-<li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/Contacts" rel="nofollow">Contacts</a></li>
-<li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/Notification" rel="nofollow">Notification</a></li>
-<li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/SMS%20Sender" rel="nofollow">SMS Sender</a></li>
-<li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/Sound%20Recorder" rel="nofollow">Sound Recorder</a></li>
-</ul>
 
 <details>
   <summary>List Apps</summary>
@@ -29,9 +19,8 @@
   </ol>
 </details>
 
-
-
 <a href="(https://github.com/milakid"><h3>All of my projects are available at</h3></a>
+
 - https://t.me/Gettechinfoweb
 
 ### Hi there 👋
