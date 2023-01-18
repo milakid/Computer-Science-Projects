@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milakid&label=Profile%20views&color=0e75b6&style=flat" alt="milakid" /> </p>
 
-
 # Computer-Science-Projects
+
 <h4 >This is My Computer Science Projects </h4>
 <h5 >List Apps</h5>
 
@@ -16,25 +16,21 @@
 <li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/SMS%20Sender" rel="nofollow">SMS Sender</a></li>
 <li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/Sound%20Recorder" rel="nofollow">Sound Recorder</a></li>
 </ul>
-<p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <p align="left"> <a href="https://twitter.com/milesyedl" target="blank"><img src="https://img.shields.io/twitter/follow/milesyedl?logo=twitter&style=for-the-badge" alt="milesyedl" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/milakid](https://github.com/milakid)
 
-
 ### Hi there 👋
 
-* 👂 My name is Mila
-* 😏 Pronouns: Hmm
-* 🔭 I’m currently working on : GTI
-* 🌱 I’m currently learning : CS
-* 🤔 I’m looking for help with ...
-* 📫 How to reach me: **milesyedl@gmail.com**
-* ❤️ I love ...
-* ⚡ Fun fact: hmm
+- 👂 My name is Mila
+- 😏 Pronouns: Hmm
+- 🔭 I’m currently working on : GTI
+- 🌱 I’m currently learning : CS
+- 🤔 I’m looking for help with ...
+- 📫 How to reach me: **milesyedl@gmail.com**
+- ❤️ I love ...
+- ⚡ Fun fact: hmm
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,5 +45,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/milesyedl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="milesyedl" /></a><a href="https://ko-fi.com/milesyedl"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="milesyedl" /></a></p><br><br>
-
-
