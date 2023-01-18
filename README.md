@@ -47,9 +47,9 @@ DistributionUrl=https://services.gradle.org/distributions/gradle-7.2-bin.zip
 'com.android.tools.build:gradle:7.1.1'
 </code></pre></div>
 
-</tr>
-</tbody>
-</table>
+<table>
+<thead>
+<tr>
 <a href="(https://github.com/milakid"><h3>All of my projects are available at</h3></a>
 
 - https://t.me/Gettechinfoweb
