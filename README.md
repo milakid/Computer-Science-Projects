@@ -9,6 +9,7 @@
 
 <details>
   <summary>List Apps</summary>
+  <br>
   <ol dir="auto">
     <li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/Calculator">Calculator</a></li>
     <li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/Clipboard">Clipboard</a></li>
