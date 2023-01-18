@@ -25,7 +25,7 @@
 <ul dir="auto">
 <li>Android Development Kit - Android Studio (API level 19 or higher) - <a href="https://developer.android.com/studio" rel="nofollow">Official Website</a></li>
 <li>Java Development Kit - Java 13 - <a href="https://www.oracle.com/java/technologies/javase-downloads.html" rel="nofollow">Official Website</a></li>
-<li>Visual Studio Code (Recommended) - <a href="https://code.visualstudio.com/" rel="nofollow">Full Specs</a></li>
+<li>Visual Studio Code (Recommended) - <a href="https://code.visualstudio.com/" rel="nofollow">Official Website</a></li>
 </ul>
 
 <p dir="auto">Dependencies</p>
