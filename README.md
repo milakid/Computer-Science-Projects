@@ -7,8 +7,6 @@
 # Computer-Science-Projects
 <h4 >This is My Computer Science Projects </h4>
 <h5 >List Apps</h5>
-This is My Computer Science Projects 
-List Apps
 
 <ul dir="auto">
 <li><a href="https://choosealicense.com" rel="nofollow">Calculator</a></li>
