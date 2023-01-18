@@ -5,8 +5,8 @@
 
 
 # Computer-Science-Projects
-<h4 align="center">This is My Computer Science Projects </h4>
-<h5 align="center">List Apps</h5>
+<h4 >This is My Computer Science Projects </h4>
+<h5 >List Apps</h5>
 This is My Computer Science Projects 
 List Apps
 
