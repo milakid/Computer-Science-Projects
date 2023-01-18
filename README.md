@@ -30,14 +30,23 @@
 
 <p dir="auto">Dependencies</p>
 
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content=
-"do Ctrl+C in windows Paste in Android"><pre class="notranslate"><code>
-
-- DistributionUrl=https\://services.gradle.org/distributions/gradle-7.2-bin.zip
--  'com.android.tools.build:gradle:7.1.1'
--  'com.google.gms:google-services:4.3.10'
-
+<ul dir="auto">
+<li>Gradle Vesion</li>
+</ul>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="
+DistributionUrl=https://services.gradle.org/distributions/gradle-7.2-bin.zip
+"><pre class="notranslate"><code>
+DistributionUrl=https://services.gradle.org/distributions/gradle-7.2-bin.zip
 </code></pre></div>
+<ul dir="auto">
+<li>Build Gradle Vesion</li>
+</ul>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="
+'com.android.tools.build:gradle:7.1.1'
+"><pre class="notranslate"><code>
+'com.android.tools.build:gradle:7.1.1'
+</code></pre></div>
+
 
 <a href="(https://github.com/milakid"><h3>All of my projects are available at</h3></a>
 
