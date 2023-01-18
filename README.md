@@ -1,5 +1,13 @@
 # Computer-Science-Projects
 
+Project SC 
+Calculator
+Clipboard
+Contacts
+Notification
+SMS Sender
+Sound Recorder
+
 <h1 align="center">Hi 👋, I'm Mila</h1>
 <h3 align="center">Developer from Ethiopia</h3>
 
