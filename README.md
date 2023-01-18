@@ -17,11 +17,35 @@
 <li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/Sound%20Recorder" rel="nofollow">Sound Recorder</a></li>
 </ul>
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol dir="auto">
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul dir="auto">
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul dir="auto">
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
 
 
 <a href="(https://github.com/milakid"><h3>All of my projects are available at</h3></a>
 - https://t.me/Gettechinfoweb
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> https://t.me/Gettechinfoweb</li>
 
 ### Hi there 👋
 
