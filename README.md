@@ -17,7 +17,6 @@
 <li><a href="https://github.com/milakid/Computer-Science-Projects/tree/main/CS%20Student%20Project/Sound%20Recorder" rel="nofollow">Sound Recorder</a></li>
 </ul>
 
-<p align="left"> <a href="https://twitter.com/milesyedl" target="blank"><img src="https://img.shields.io/twitter/follow/milesyedl?logo=twitter&style=for-the-badge" alt="milesyedl" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/milakid](https://github.com/milakid)
 
