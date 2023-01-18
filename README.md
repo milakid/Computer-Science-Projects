@@ -14,8 +14,8 @@
 
 * 👂 My name is Mila
 * 😏 Pronouns: Hmm
-* 🔭 I’m currently working on GTI
-* 🌱 I’m currently learning CS
+* 🔭 I’m currently working on : GTI
+* 🌱 I’m currently learning : CS
 * 🤔 I’m looking for help with ...
 * 📫 How to reach me: **milesyedl@gmail.com**
 * ❤️ I love ...
