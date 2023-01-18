@@ -28,13 +28,15 @@
 <li>Visual Studio Code (Recommended) - <a href="https://code.visualstudio.com/" rel="nofollow">Full Specs</a></li>
 </ul>
 
-<p dir="auto">A Common Clipboard tool between Windows and Android.</p>
+<p dir="auto">Dependencies</p>
 
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content=
 "do Ctrl+C in windows Paste in Android"><pre class="notranslate"><code>
-do Ctrl+C in windows
 
-Paste in Android
+- DistributionUrl=https\://services.gradle.org/distributions/gradle-7.2-bin.zip
+-  'com.android.tools.build:gradle:7.1.1'
+-  'com.google.gms:google-services:4.3.10'
+
 </code></pre></div>
 
 <a href="(https://github.com/milakid"><h3>All of my projects are available at</h3></a>
